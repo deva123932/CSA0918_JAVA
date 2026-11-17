@@ -191,9 +191,9 @@ The design focuses on modularity, reusability, data protection, maintainability 
 
 ## 14. Student Information
 
-**Student Name:** GUTTI CHAITANYA
+**Student Name:** M. Venkata Vasu Deva Reddy
 
-**Register Number:** 192424185
+**Register Number:** 192424182
 
 **Department:** B.Tech- Artificial Intelligence and Data Science
 
@@ -201,7 +201,7 @@ The design focuses on modularity, reusability, data protection, maintainability 
 
 **Assignment:** CO1 – Assignment 1
 
-**GitHub Repository:** https://github.com/Chaitanya081
+**GitHub Repository:** https://github.com/deva123932/CSA0918_JAVA.git
 
 ---
 
